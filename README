@@ -1,0 +1,10 @@
+This is a small project to get the Code coverage statistics for a project based on Emma Coverage Report.
+It can be used to extract the statistics if you work in an org where the control over source path is not in your hand
+i.e. you get the code coverage details of entire codebase.
+Supported features:
+* Get the list of classes with Zero code coverage (untouched by the execution: Unit tests/runtime)
+To be added:
+* Get the method coverage stats
+* Get the line coverage stats
+* Get the block coverage stats
+
